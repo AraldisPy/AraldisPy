@@ -45,7 +45,7 @@ Enterprise Java development and production maintenance around BOSS, a telecommun
 
 **araldis.dev** contains public-safe case studies for both my professional work and independent products.
 
-- Portfolio: https://araldis.dev
+- Portfolio: https://jarias@nextpy.pro
 - LinkedIn: https://www.linkedin.com/in/ariasjorgeluis/
 
 ## Main technologies
